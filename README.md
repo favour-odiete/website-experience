@@ -20,7 +20,5 @@ Detailed steps taking in the completion of this project:
 4 Configure Domain Name for the Static Website
 
 - I use my newly purchased domain name for my static website and set up Route 53 DNS records. 
-These AWS documentation serves as a guide:
-Registering a Domain with Route 53
-Hosting a Static Website Using a Custom Domain
+The process was easy with the guidance of some AWS documentation online
 
